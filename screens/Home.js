@@ -33,7 +33,7 @@ export default class HomeScreen extends Component {
         )
     }
 }
-styles=StyleSheet.create({
+const styles=StyleSheet.create({
     container: {
         flex: 1,
       },
